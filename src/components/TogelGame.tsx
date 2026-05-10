@@ -138,7 +138,7 @@ export function TogelGame() {
       if (count <= FREE_WIN_QUOTA) {
         forceWin = true;
       } else {
-        forceWin = Math.random() < 0.3;
+        forceWin = Math.random() < 0.2;
       }
 
       const resultNum = generateResult(

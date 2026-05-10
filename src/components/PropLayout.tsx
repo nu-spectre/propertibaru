@@ -29,11 +29,11 @@ export function PropLayout({ children }: { children: ReactNode }) {
     <div className="min-h-screen bg-background text-foreground relative overflow-hidden">
       <div className="pointer-events-none fixed inset-0 z-50 flex items-center justify-center">
         <span className="text-[120px] font-black uppercase tracking-widest opacity-[0.04] rotate-[-25deg] select-none">
-          FICTIONAL · FILM PROP
+          PROPERTI FILM
         </span>
       </div>
       <div className="pointer-events-none fixed bottom-2 right-3 z-50 text-[10px] uppercase tracking-widest opacity-50">
-        Film Prop · Not a Real Site
+        
       </div>
 
       <header className="border-b border-white/5 bg-[var(--surface-1)]/80 backdrop-blur sticky top-0 z-40">
