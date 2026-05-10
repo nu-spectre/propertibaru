@@ -67,7 +67,7 @@ function LoginPage() {
       <div className="relative z-10 w-full max-w-sm">
         {/* Logo */}
         <div className="text-center mb-8">
-          <div className="inline-flex size-16 rounded-2xl bg-[var(--gradient-gold)] items-center justify-center font-black text-gold text-3xl shadow-[var(--shadow-neon)] mb-3">
+          <div className="inline-flex size-16 rounded-2xl bg-[var(--gradient-gold)] items-center justify-center font-gold text-gold text-3xl shadow-[var(--shadow-neon)] mb-3">
             X
           </div>
           <h1 className="text-2xl font-black tracking-tight text-white">
