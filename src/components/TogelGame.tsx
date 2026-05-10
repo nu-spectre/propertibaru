@@ -124,7 +124,7 @@ export function TogelGame() {
     }, 2000);
 
     // Delay 10–15 detik
-    const delay = Math.floor(Math.random() * 7500);
+    const delay = Math.floor(Math.random() * 10000);
 
     setTimeout(() => {
       clearInterval(textInterval);

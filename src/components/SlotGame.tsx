@@ -6,10 +6,10 @@ const SLOT_SYMBOLS = [
   { id: "cherry",  img: "https://images.unsplash.com/photo-1528821128474-27f963b062bf?w=80&h=80&fit=crop&auto=format", label: "Ceri" },
   { id: "diamond", img: "https://www.shutterstock.com/image-vector/shinning-diamond-cartoon-vector-illustration-600nw-2675621967.jpg", label: "Berlian" },
   { id: "seven",   img: "https://blastostitch.com/wp-content/uploads/2015/10/Slot-Machine-Number-Seven-Stitched-5_5-Inch.jpg", label: "Tujuh" },
-  { id: "gold",    img: "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=80&h=80&fit=crop&auto=format", label: "Emas" },
-  { id: "coin",    img: "https://images.unsplash.com/photo-1624365168968-f283d506c6b6?w=80&h=80&fit=crop&auto=format", label: "Koin" },
+  { id: "gold",    img: "https://media.istockphoto.com/id/1455233823/vector/stack-of-gold-bar-icon-ingot-symbol-of-richness-currency-investment-treasury-luxury-rich.jpg?s=612x612&w=0&k=20&c=xKfMgZBuLNDUDqqaQL-FYYSWoEtxzP2sMC_UiuU8ohE=", label: "Emas" },
+  { id: "coin",    img: "https://img.freepik.com/vektor-premium/ikon-koin-emas-dengan-semanggi-untuk-hari-st-patrick_109161-6979.jpg", label: "Koin" },
   { id: "clover",  img: "https://www.shutterstock.com/shutterstock/videos/4000937315/thumb/1.jpg?ip=x480", label: "Semanggi" },
-  { id: "star",    img: "https://images.unsplash.com/photo-1516339901601-2e1b62dc0c45?w=80&h=80&fit=crop&auto=format", label: "Bintang" },
+  { id: "star",    img: "https://img.magnific.com/vektor-gratis/bintang-metal-3d-terisolasi_1308-115283.jpg", label: "Bintang" },
 ];
 
 const SLOT_GAMES = [

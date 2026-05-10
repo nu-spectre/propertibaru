@@ -67,11 +67,11 @@ function LoginPage() {
       <div className="relative z-10 w-full max-w-sm">
         {/* Logo */}
         <div className="text-center mb-8">
-          <div className="inline-flex size-16 rounded-2xl bg-[var(--gradient-gold)] items-center justify-center font-gold text-gold text-3xl shadow-[var(--shadow-neon)] mb-3">
-            X
+          <div className="inline-flex size-20 items-center justify-center mb-3 drop-shadow-[0_0_16px_rgba(245,200,66,0.7)]">
+            <img src="/logo.svg" alt="TogelX99 Logo" className="w-full h-full" />
           </div>
-          <h1 className="text-2xl font-black tracking-tight text-white">
-            TOGEL<span className="text-[var(--neon-gold)]">X99</span>
+          <h1 className="text-3xl font-black tracking-tight bg-gradient-to-r from-[#FFE066] via-[#F5C842] to-[#C49A1A] bg-clip-text text-transparent drop-shadow-[0_0_8px_rgba(245,200,66,0.5)]">
+            TOGEL<span className="text-[#FFD700]">X99</span>
           </h1>
           <p className="text-xs text-white/30 mt-1">Properti Film Fiksi · Platform Simulasi</p>
         </div>
