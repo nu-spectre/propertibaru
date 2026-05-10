@@ -135,7 +135,7 @@ function LoginPage() {
               </button>
               {/* Demo hints */}
               <div className="bg-white/3 border border-white/5 rounded-xl p-3">
-                <p className="text-[10px] text-white/30 uppercase tracking-widest mb-2">Akun Demo (Film Prop)</p>
+                <p className="text-[10px] text-white/30 uppercase tracking-widest mb-2">Akun Demo</p>
                 <div className="space-y-1">
                   {[{ u: "demo", p: "demo123" }, { u: "admin", p: "admin123" }, { u: "user1", p: "pass123" }].map((acc) => (
                     <button key={acc.u} onClick={() => { setUsername(acc.u); setPassword(acc.p); }} className="w-full flex justify-between items-center px-2 py-1 rounded-lg hover:bg-white/5 transition text-left">
