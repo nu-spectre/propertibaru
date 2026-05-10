@@ -4,11 +4,11 @@ import { fmt } from "@/lib/utils";
 
 const SLOT_SYMBOLS = [
   { id: "cherry",  img: "https://images.unsplash.com/photo-1528821128474-27f963b062bf?w=80&h=80&fit=crop&auto=format", label: "Ceri" },
-  { id: "diamond", img: "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=80&h=80&fit=crop&auto=format", label: "Berlian" },
-  { id: "seven",   img: "https://images.unsplash.com/photo-1642511283397-e93e4eb4680d?w=80&h=80&fit=crop&auto=format", label: "Tujuh" },
+  { id: "diamond", img: "https://www.shutterstock.com/image-vector/shinning-diamond-cartoon-vector-illustration-600nw-2675621967.jpg", label: "Berlian" },
+  { id: "seven",   img: "https://blastostitch.com/wp-content/uploads/2015/10/Slot-Machine-Number-Seven-Stitched-5_5-Inch.jpg", label: "Tujuh" },
   { id: "gold",    img: "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=80&h=80&fit=crop&auto=format", label: "Emas" },
   { id: "coin",    img: "https://images.unsplash.com/photo-1624365168968-f283d506c6b6?w=80&h=80&fit=crop&auto=format", label: "Koin" },
-  { id: "clover",  img: "https://images.unsplash.com/photo-1592417817038-d13fd7342585?w=80&h=80&fit=crop&auto=format", label: "Semanggi" },
+  { id: "clover",  img: "https://www.shutterstock.com/shutterstock/videos/4000937315/thumb/1.jpg?ip=x480", label: "Semanggi" },
   { id: "star",    img: "https://images.unsplash.com/photo-1516339901601-2e1b62dc0c45?w=80&h=80&fit=crop&auto=format", label: "Bintang" },
 ];
 
