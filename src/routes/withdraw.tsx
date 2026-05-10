@@ -92,7 +92,7 @@ function WithdrawPage() {
       <div className="max-w-md mx-auto">
         <div className="mb-5">
           <h1 className="text-xl font-black tracking-tight">💸 WITHDRAW</h1>
-          <p className="text-xs text-white/30 mt-0.5">Properti Film Fiksi · Saldo Simulasi</p>
+          <p className="text-xs text-white/30 mt-0.5">Silahkan Masukkan Nominal Yang Ingin Di Withdraw</p>
         </div>
 
         <div className="space-y-4">

@@ -73,7 +73,7 @@ function LoginPage() {
           <h1 className="text-3xl font-black tracking-tight bg-gradient-to-r from-[#FFE066] via-[#F5C842] to-[#C49A1A] bg-clip-text text-transparent drop-shadow-[0_0_8px_rgba(245,200,66,0.5)]">
             TOGEL<span className="text-[#FFD700]">X99</span>
           </h1>
-          <p className="text-xs text-white/30 mt-1">Properti Film Fiksi · Platform Simulasi</p>
+          <p className="text-xs text-white/30 mt-1">Platform Judi Online Terpercaya</p>
         </div>
 
         {/* Tab Switch */}
@@ -214,7 +214,7 @@ function LoginPage() {
         </div>
 
         <p className="text-center text-[10px] text-white/20 mt-4">
-          ⚠️ Ini properti film fiksi. Tidak ada akun atau uang nyata.
+          Masuk dan Raih Puluhan Juta Rupiah.
         </p>
       </div>
     </div>

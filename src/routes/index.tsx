@@ -31,7 +31,7 @@ function Home() {
             <h1 className="text-2xl font-black tracking-tight mb-1">
               SELAMAT DATANG, <span className="text-[var(--neon-gold)]">{user?.displayName.toUpperCase()}</span>
             </h1>
-            <p className="text-white/50 text-xs mb-1">Properti Film Fiksi</p>
+            <p className="text-white/50 text-xs mb-1">Dengan Satu Kali Klik Uang Anda Akan Berlipat Ganda</p>
             <div className="mt-3 inline-block bg-[var(--neon-gold)]/10 border border-[var(--neon-gold)]/30 rounded-xl px-6 py-3">
               <div className="text-xs text-white/40 mb-1">SALDO ANDA</div>
               <div className="text-2xl font-black text-[var(--neon-gold)]">{fmt(saldo)}</div>

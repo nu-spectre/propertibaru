@@ -27,7 +27,7 @@ function SlotPage() {
     <PropLayout>
       <div className="mb-5">
         <h1 className="text-xl font-black tracking-tight">🎰 SLOT</h1>
-        <p className="text-xs text-white/30 mt-0.5">Properti Film Fiksi · Simulasi Mesin Slot</p>
+        <p className="text-xs text-white/30 mt-0.5">Mulai Putarannya dan Dapatkan Hingga Puluhan Juta Rupiah</p>
       </div>
       {!canPlay ? (
         <div className="max-w-sm mx-auto text-center py-12 space-y-4">

@@ -27,7 +27,7 @@ function TogelPage() {
     <PropLayout>
       <div className="mb-5">
         <h1 className="text-xl font-black tracking-tight">🎯 TOGEL</h1>
-        <p className="text-xs text-white/30 mt-0.5">Properti Film Fiksi · Simulasi Pasang Nomor</p>
+        <p className="text-xs text-white/30 mt-0.5">Dapatkan Hingga Puluhan Juta Rupiah Hanya Dengan Menebak Nomorr</p>
       </div>
       {!canPlay ? (
         <div className="max-w-sm mx-auto text-center py-12 space-y-4">
