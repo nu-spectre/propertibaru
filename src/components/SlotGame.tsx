@@ -268,7 +268,7 @@ export function SlotGame() {
           <span className="text-2xl">🎁</span>
           <div>
             <div className="text-xs font-black text-yellow-400 tracking-wide">BONUS MEMBER BARU!</div>
-            <div className="text-[11px] text-white/60">{remainingFreeWins} spin lagi dijamin menang! (dari 10)</div>
+            <div className="text-[11px] text-white/60">{remainingFreeWins} spin lagi dijamin menang!</div>
           </div>
         </div>
       )}
