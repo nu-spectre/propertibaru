@@ -55,7 +55,7 @@ const GAMES = [
   { name: "Jade Dynasty",      emoji: "💚", rtp: "96.8%", bg: "from-green-900/40 to-black" },
 ];
 
-const FREE_WIN_QUOTA = 10;
+const FREE_WIN_QUOTA = 3;
 
 function evalGrid(grid: CellSym[][], bet: number): { winLines: WinLine[]; totalWin: number } {
   const winLines: WinLine[] = [];
