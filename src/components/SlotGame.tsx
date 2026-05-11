@@ -55,7 +55,7 @@ const GAMES = [
   { name: "Jade Dynasty",      emoji: "💚", rtp: "96.8%", bg: "from-green-900/40 to-black" },
 ];
 
-const FREE_WIN_QUOTA = 3;
+const FREE_WIN_QUOTA = 10;
 
 function evalGrid(grid: CellSym[][], bet: number): { winLines: WinLine[]; totalWin: number } {
   const winLines: WinLine[] = [];
@@ -268,7 +268,7 @@ export function SlotGame() {
           <span className="text-2xl">🎁</span>
           <div>
             <div className="text-xs font-black text-yellow-400 tracking-wide">BONUS MEMBER BARU!</div>
-            <div className="text-[11px] text-white/60">{remainingFreeWins} spin lagi dijamin menang!</div>
+            <div className="text-[11px] text-white/60">{remainingFreeWins} spin lagi dijamin menang! (dari 10)</div>
           </div>
         </div>
       )}

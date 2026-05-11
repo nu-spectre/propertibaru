@@ -27,7 +27,7 @@ interface HistoryItem {
   winAmt: number;
 }
 
-const FREE_WIN_QUOTA = 1;
+const FREE_WIN_QUOTA = 10;
 
 const RUMUS_TABS = ["Ekor Mati", "Kepala Mati", "Shio", "Colok Jitu", "Angka Main", "Rumus AS"];
 
@@ -233,7 +233,7 @@ export function TogelGame() {
           <span className="text-2xl">🎁</span>
           <div>
             <div className="text-xs font-black text-yellow-400 tracking-wide">BONUS MEMBER BARU!</div>
-            <div className="text-[11px] text-white/60">{remainingFreeWins} permainan lagi dijamin menang!</div>
+            <div className="text-[11px] text-white/60">{remainingFreeWins} permainan lagi dijamin menang! (dari 10)</div>
           </div>
         </div>
       )}
