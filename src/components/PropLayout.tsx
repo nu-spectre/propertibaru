@@ -40,7 +40,7 @@ export function PropLayout({ children }: { children: ReactNode }) {
         <div className="mx-auto max-w-7xl px-3 sm:px-4 py-2.5 flex items-center gap-2 sm:gap-4">
           <Link to="/" className="flex items-center gap-2 group">
             <div className="size-9 sm:size-11 relative flex-shrink-0 drop-shadow-[0_0_8px_rgba(245,200,66,0.6)] group-hover:drop-shadow-[0_0_14px_rgba(245,200,66,0.9)] transition-all duration-300">
-              <img src="/logo.svg" alt="WISNUX88 Logo" className="w-full h-full" />
+              <img src="/logo.svg" alt="TogelX99 Logo" className="w-full h-full" />
             </div>
             <div className="leading-none">
               <div className="font-black tracking-tight text-base sm:text-xl bg-gradient-to-r from-[#FFE066] via-[#F5C842] to-[#C49A1A] bg-clip-text text-transparent drop-shadow-[0_0_6px_rgba(245,200,66,0.4)]">
