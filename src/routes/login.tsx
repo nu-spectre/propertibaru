@@ -71,7 +71,7 @@ function LoginPage() {
             <img src="/logo.svg" alt="WISNUX88 Logo" className="w-full h-full" />
           </div>
           <h1 className="text-3xl font-black tracking-tight bg-gradient-to-r from-[#FFE066] via-[#F5C842] to-[#C49A1A] bg-clip-text text-transparent drop-shadow-[0_0_8px_rgba(245,200,66,0.5)]">
-            TOGEL<span className="text-[#FFD700]">X99</span>
+            WISNU<span className="text-[#FFD700]">X88</span>
           </h1>
           <p className="text-xs text-white/30 mt-1">Platform Judi Online Terpercaya</p>
         </div>
