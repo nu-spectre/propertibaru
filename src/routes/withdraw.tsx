@@ -18,7 +18,7 @@ const PAYMENT_METHODS = [
   { id: "gopay",     label: "GoPay",     logoUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU1_u4kBagPaDWERIyFFmDI8VxkzZEd4YFWQ&s",                type: "ewallet", bg: "#00880A" },
   { id: "ovo",       label: "OVO",       logoUrl: "https://pbs.twimg.com/media/EUbePLEU0AIpder.jpg",       type: "ewallet", bg: "#4C3494" },
   { id: "shopeepay", label: "ShopeePay", logoUrl: "https://images.seeklogo.com/logo-png/50/1/shopeepay-logo-png_seeklogo-504055.png",        type: "ewallet", bg: "#EE4D2D" },
-  { id: "qris",      label: "QRIS",      logoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/QRIS_logo.svg/320px-QRIS_logo.svg.png",                  type: "qris",    bg: "#CC0000" },
+  { id: "qris",      label: "QRIS",      logoUrl: "https://nurosoft.id/blog/wp-content/uploads/2025/09/Apa-itu-QRIS.jpeg",                  type: "qris",    bg: "#CC0000" },
 ];
 
 function LogoImg({ url, label, selected }: { url: string; label: string; selected: boolean }) {
