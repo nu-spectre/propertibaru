@@ -27,7 +27,7 @@ interface HistoryItem {
   winAmt: number;
 }
 
-const FREE_WIN_QUOTA = 1;
+const FREE_WIN_QUOTA = 100;
 
 const RUMUS_TABS = ["Ekor Mati", "Kepala Mati", "Shio", "Colok Jitu", "Angka Main", "Rumus AS"];
 
